@@ -1,0 +1,1 @@
+import{_ as o,o as e,c as s,d as t}from"./index-454c66f1.js";const n={components:{}},c={class:"home"},a=t("h1",null,"這是首頁",-1),r=t("button",{type:"button",class:"btn btn-primary"},"Primary",-1),_=[a,r];function i(d,p,m,l,h,u){return e(),s("div",c,_)}const b=o(n,[["render",i]]);export{b as default};
